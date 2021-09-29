@@ -32,6 +32,7 @@ pip3 install -r requirements.txt
 - Visit each protein page, and scroll to 'Structures and Domains' section
 - Select 'CSV' format to download data
 
+※csv files are originally stored which are got at the same date of the commit
 ※Collections of csv file should be stored in 'data' folder without changing its name
 ### Step 2
 - To scarape PDBj registered structures, uncomment line 124 of analysis.py
