@@ -1,0 +1,22 @@
+accession,type,label,start,end,notes
+P0DTC8,PDB Structures (2),7jx6,18,121,Type: PDB mapped to UniProt Range: GLN18-ILE121 PDB entry: 7jx6 Best Chain A;
+P0DTC8,PDB Structures (2),7jtl,18,64,Type: PDB mapped to UniProt Range: GLN18-GLU64 PDB entry: 7jtl Best Chain A;
+P0DTC8,PDB Structures (2),7jtl,65,66,Type: PDB mapped to UniProt Range: ALA65-GLY66 PDB entry: 7jtl Best Chain A;
+P0DTC8,PDB Structures (2),7jtl,67,121,Type: PDB mapped to UniProt Range: SER67-ILE121 PDB entry: 7jtl Best Chain A;
+P0DTC8,Predicted structures,SWISS-MODEL,18,121,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 18 - 121 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC8,Predicted structures,SWISS-MODEL,18,121,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 18 - 121 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC8,Domains,Pfam domains,1,118,Type: Pfam domain Range: MET1 - LEU118 Source: bCoV_NS8 (PF12093);
+P0DTC8,Secondary structure,Strand,19,25,Type: Strand Range: GLU19 - CYS25 Source PDB: 7jx6;
+P0DTC8,Secondary structure,Strand,30,32,Type: Strand Range: PRO30 - VAL32 Source PDB: 7jx6;
+P0DTC8,Secondary structure,Strand,42,49,Type: Strand Range: TYR42 - VAL49 Source PDB: 7jx6;
+P0DTC8,Secondary structure,Strand,57,59,Type: Strand Range: LEU57 - GLU59 Source PDB: 7jx6;
+P0DTC8,Secondary structure,Strand,61,63,Type: Strand Range: CYS61 - ASP63 Source PDB: 7jx6;
+P0DTC8,Secondary structure,Strand,68,70,Type: Strand Range: LYS68 - PRO70 Source PDB: 7jx6;
+P0DTC8,Secondary structure,Strand,80,82,Type: Strand Range: THR80 - SER82 Source PDB: 7jx6;
+P0DTC8,Secondary structure,Strand,87,89,Type: Strand Range: THR87 - ASN89 Source PDB: 7jx6;
+P0DTC8,Secondary structure,Strand,96,103,Type: Strand Range: GLY96 - SER103 Source PDB: 7jx6;
+P0DTC8,Secondary structure,Strand,112,120,Type: Strand Range: HIS112 - PHE120 Source PDB: 7jx6;

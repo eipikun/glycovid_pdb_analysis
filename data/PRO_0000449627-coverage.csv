@@ -1,0 +1,13 @@
+accession,type,label,start,end,notes
+PRO_0000449627,PDB Structures (10),7mc5,113,113,Type: PDB mapped to UniProt UniProt range: GLN4253-GLN4253 PDB entry: 7mc5 Best Chain B;
+PRO_0000449627,PDB Structures (10),7kri,1,113,Type: PDB mapped to UniProt UniProt range: ASN4141-GLN4253 PDB entry: 7kri Best Chain A;
+PRO_0000449627,PDB Structures (10),7mc6,113,113,Type: PDB mapped to UniProt UniProt range: GLN4253-GLN4253 PDB entry: 7mc6 Best Chain B;
+PRO_0000449627,PDB Structures (10),6w9q,1,113,Type: PDB mapped to UniProt UniProt range: ASN4141-GLN4253 PDB entry: 6w9q Best Chain A;
+PRO_0000449627,PDB Structures (10),6wxd,1,113,Type: PDB mapped to UniProt UniProt range: ASN4141-GLN4253 PDB entry: 6wxd Best Chain A;
+PRO_0000449627,PDB Structures (10),6wc1,1,1,Type: PDB mapped to UniProt UniProt range: ASN4141-ASN4141 PDB entry: 6wc1 Best Chain A;
+PRO_0000449627,PDB Structures (10),6wc1,2,113,Type: PDB mapped to UniProt UniProt range: ASN4142-GLN4253 PDB entry: 6wc1 Best Chain A;
+PRO_0000449627,PDB Structures (10),6w4b,1,113,Type: PDB mapped to UniProt UniProt range: ASN4141-GLN4253 PDB entry: 6w4b Best Chain B;
+PRO_0000449627,PDB Structures (10),7cyq,1,113,Type: PDB mapped to UniProt UniProt range: ASN4141-GLN4253 PDB entry: 7cyq Best Chain I;
+PRO_0000449627,PDB Structures (10),7egq,1,113,Type: PDB mapped to UniProt UniProt range: ASN4141-GLN4253 PDB entry: 7egq Best Chain F;
+PRO_0000449627,PDB Structures (10),7eiz,1,113,Type: PDB mapped to UniProt UniProt range: ASN4141-GLN4253 PDB entry: 7eiz Best Chain E;
+PRO_0000449627,Domains,Pfam domains,1,113,Type: Pfam domain UniProt range: ASN4141 - GLN4252 Source: CoV_NSP9 (PF08710);

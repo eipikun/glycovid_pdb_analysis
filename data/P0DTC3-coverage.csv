@@ -1,0 +1,15 @@
+accession,type,label,start,end,notes
+P0DTC3,PDB Structures (2),7kjr,1,39,Type: PDB mapped to UniProt Range: MET1-ALA39 PDB entry: 7kjr Best Chain A;
+P0DTC3,PDB Structures (2),7kjr,40,174,Type: PDB mapped to UniProt Range: SER40-GLY174 PDB entry: 7kjr Best Chain A;
+P0DTC3,PDB Structures (2),7kjr,175,180,Type: PDB mapped to UniProt Range: THR175-SER180 PDB entry: 7kjr Best Chain A;
+P0DTC3,PDB Structures (2),7kjr,181,238,Type: PDB mapped to UniProt Range: GLU181-ASP238 PDB entry: 7kjr Best Chain A;
+P0DTC3,PDB Structures (2),7kjr,239,275,Type: PDB mapped to UniProt Range: GLU239-LEU275 PDB entry: 7kjr Best Chain A;
+P0DTC3,PDB Structures (2),6xdc,1,39,Type: PDB mapped to UniProt Range: MET1-ALA39 PDB entry: 6xdc Best Chain A;
+P0DTC3,PDB Structures (2),6xdc,40,174,Type: PDB mapped to UniProt Range: SER40-GLY174 PDB entry: 6xdc Best Chain A;
+P0DTC3,PDB Structures (2),6xdc,175,180,Type: PDB mapped to UniProt Range: THR175-SER180 PDB entry: 6xdc Best Chain A;
+P0DTC3,PDB Structures (2),6xdc,181,238,Type: PDB mapped to UniProt Range: GLU181-ASP238 PDB entry: 6xdc Best Chain A;
+P0DTC3,PDB Structures (2),6xdc,239,275,Type: PDB mapped to UniProt Range: GLU239-LEU275 PDB entry: 6xdc Best Chain A;
+P0DTC3,Predicted structures,SWISS-MODEL,40,238,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 40 - 238 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC3,Domains,Pfam domains,1,274,Type: Pfam domain Range: MET1 - PRO274 Source: bCoV_viroporin (PF11289);

@@ -1,0 +1,28 @@
+accession,type,label,start,end,notes
+PRO_0000449631,PDB Structures (8),7mc5,3,289,Type: PDB mapped to UniProt UniProt range: ASN5928-ARG6214 PDB entry: 7mc5 Best Chain A;
+PRO_0000449631,PDB Structures (8),7mc6,1,2,Type: PDB mapped to UniProt UniProt range: ALA5926-GLU5927 PDB entry: 7mc6 Best Chain A;
+PRO_0000449631,PDB Structures (8),7mc6,3,287,Type: PDB mapped to UniProt UniProt range: ASN5928-VAL6212 PDB entry: 7mc6 Best Chain A;
+PRO_0000449631,PDB Structures (8),7mc6,288,289,Type: PDB mapped to UniProt UniProt range: LYS6213-ARG6214 PDB entry: 7mc6 Best Chain A;
+PRO_0000449631,PDB Structures (8),7n0d,1,1,Type: PDB mapped to UniProt UniProt range: ALA5926-ALA5926 PDB entry: 7n0d Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0d,2,454,Type: PDB mapped to UniProt UniProt range: GLU5927-SER6379 PDB entry: 7n0d Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0d,455,464,Type: PDB mapped to UniProt UniProt range: HIS6380-ASP6389 PDB entry: 7n0d Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0d,465,523,Type: PDB mapped to UniProt UniProt range: TYR6390-PHE6448 PDB entry: 7n0d Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0d,524,527,Type: PDB mapped to UniProt UniProt range: THR6449-GLN6452 PDB entry: 7n0d Best Chain B;
+PRO_0000449631,PDB Structures (8),7diy,1,2,Type: PDB mapped to UniProt UniProt range: ALA5926-GLU5927 PDB entry: 7diy Best Chain B;
+PRO_0000449631,PDB Structures (8),7diy,3,288,Type: PDB mapped to UniProt UniProt range: ASN5928-LYS6213 PDB entry: 7diy Best Chain B;
+PRO_0000449631,PDB Structures (8),7diy,289,289,Type: PDB mapped to UniProt UniProt range: ARG6214-ARG6214 PDB entry: 7diy Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0c,1,454,Type: PDB mapped to UniProt UniProt range: ALA5926-SER6379 PDB entry: 7n0c Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0c,455,464,Type: PDB mapped to UniProt UniProt range: HIS6380-ASP6389 PDB entry: 7n0c Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0c,465,523,Type: PDB mapped to UniProt UniProt range: TYR6390-PHE6448 PDB entry: 7n0c Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0c,524,527,Type: PDB mapped to UniProt UniProt range: THR6449-GLN6452 PDB entry: 7n0c Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0b,1,1,Type: PDB mapped to UniProt UniProt range: ALA5926-ALA5926 PDB entry: 7n0b Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0b,2,454,Type: PDB mapped to UniProt UniProt range: GLU5927-SER6379 PDB entry: 7n0b Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0b,455,464,Type: PDB mapped to UniProt UniProt range: HIS6380-ASP6389 PDB entry: 7n0b Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0b,465,523,Type: PDB mapped to UniProt UniProt range: TYR6390-PHE6448 PDB entry: 7n0b Best Chain B;
+PRO_0000449631,PDB Structures (8),7n0b,524,527,Type: PDB mapped to UniProt UniProt range: THR6449-GLN6452 PDB entry: 7n0b Best Chain B;
+PRO_0000449631,PDB Structures (8),7egq,1,524,Type: PDB mapped to UniProt UniProt range: ALA5926-THR6449 PDB entry: 7egq Best Chain P;
+PRO_0000449631,PDB Structures (8),7egq,525,527,Type: PDB mapped to UniProt UniProt range: ARG6450-GLN6452 PDB entry: 7egq Best Chain P;
+PRO_0000449631,PDB Structures (8),7eiz,1,2,Type: PDB mapped to UniProt UniProt range: ALA5926-GLU5927 PDB entry: 7eiz Best Chain I;
+PRO_0000449631,PDB Structures (8),7eiz,3,525,Type: PDB mapped to UniProt UniProt range: ASN5928-ARG6450 PDB entry: 7eiz Best Chain I;
+PRO_0000449631,PDB Structures (8),7eiz,526,527,Type: PDB mapped to UniProt UniProt range: LEU6451-GLN6452 PDB entry: 7eiz Best Chain I;
+PRO_0000449631,Domains,Pfam domains,3,525,Type: Pfam domain UniProt range: ASN5928 - ARG6449 Source: CoV_Methyltr_1 (PF06471);

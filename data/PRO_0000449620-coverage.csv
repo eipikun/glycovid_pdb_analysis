@@ -1,0 +1,13 @@
+accession,type,label,start,end,notes
+PRO_0000449620,PDB Structures (3),7msx,1,3,Type: PDB mapped to UniProt UniProt range: ALA181-THR183 PDB entry: 7msx Best Chain A;
+PRO_0000449620,PDB Structures (3),7msx,4,104,Type: PDB mapped to UniProt UniProt range: ARG184-ILE284 PDB entry: 7msx Best Chain A;
+PRO_0000449620,PDB Structures (3),7msx,105,118,Type: PDB mapped to UniProt UniProt range: GLN285-GLY298 PDB entry: 7msx Best Chain A;
+PRO_0000449620,PDB Structures (3),7msx,119,475,Type: PDB mapped to UniProt UniProt range: ARG299-CYS655 PDB entry: 7msx Best Chain A;
+PRO_0000449620,PDB Structures (3),7msx,476,490,Type: PDB mapped to UniProt UniProt range: ALA656-GLU670 PDB entry: 7msx Best Chain A;
+PRO_0000449620,PDB Structures (3),7msx,491,505,Type: PDB mapped to UniProt UniProt range: ILE671-PHE685 PDB entry: 7msx Best Chain A;
+PRO_0000449620,PDB Structures (3),7msx,506,638,Type: PDB mapped to UniProt UniProt range: LEU686-GLY818 PDB entry: 7msx Best Chain A;
+PRO_0000449620,PDB Structures (3),7exm,1,276,Type: PDB mapped to UniProt UniProt range: ALA181-LYS456 PDB entry: 7exm Best Chain A;
+PRO_0000449620,PDB Structures (3),7msw,1,3,Type: PDB mapped to UniProt UniProt range: ALA181-THR183 PDB entry: 7msw Best Chain A;
+PRO_0000449620,PDB Structures (3),7msw,4,638,Type: PDB mapped to UniProt UniProt range: ARG184-GLY818 PDB entry: 7msw Best Chain A;
+PRO_0000449620,Domains,Pfam domains,2,243,Type: Pfam domain UniProt range: TYR182 - TRP422 Source: CoV_NSP2_N (PF19211);
+PRO_0000449620,Domains,Pfam domains,472,638,Type: Pfam domain UniProt range: ILE652 - GLY817 Source: CoV_NSP2_C (PF19212);

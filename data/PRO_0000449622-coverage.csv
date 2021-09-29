@@ -1,0 +1,6 @@
+accession,type,label,start,end,notes
+PRO_0000449622,PDB Structures (2),7n6n,496,500,Type: PDB mapped to UniProt UniProt range: SER3259-GLN3263 PDB entry: 7n6n Best Chain C;
+PRO_0000449622,PDB Structures (2),7n6n,496,500,Type: PDB mapped to UniProt UniProt range: SER3259-GLN3263 PDB entry: 7n6n Best Chain A;
+PRO_0000449622,PDB Structures (2),7lmc,495,500,Type: PDB mapped to UniProt UniProt range: THR3258-GLN3263 PDB entry: 7lmc Best Chain A;
+PRO_0000449622,Domains,Pfam domains,25,379,Type: Pfam domain UniProt range: TYR2788 - ILE3141 Source: CoV_NSP4_N (PF19217);
+PRO_0000449622,Domains,Pfam domains,403,499,Type: Pfam domain UniProt range: VAL3166 - LEU3261 Source: CoV_NSP4_C (PF16348);

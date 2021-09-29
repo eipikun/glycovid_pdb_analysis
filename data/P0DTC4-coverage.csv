@@ -1,0 +1,12 @@
+accession,type,label,start,end,notes
+P0DTC4,PDB Structures (3),7ntk,68,68,Type: PDB mapped to UniProt Range: SER68-SER68 PDB entry: 7ntk Best Chain C;
+P0DTC4,PDB Structures (3),7ntk,69,75,Type: PDB mapped to UniProt Range: ARG69-VAL75 PDB entry: 7ntk Best Chain C;
+P0DTC4,PDB Structures (3),7m4r,58,66,Type: PDB mapped to UniProt Range: VAL58-ASN66 PDB entry: 7m4r Best Chain C;
+P0DTC4,PDB Structures (3),7m4r,67,75,Type: PDB mapped to UniProt Range: SER67-VAL75 PDB entry: 7m4r Best Chain C;
+P0DTC4,PDB Structures (3),7k3g,8,38,Type: PDB mapped to UniProt Range: GLU8-ARG38 PDB entry: 7k3g Best Chain A;
+P0DTC4,Predicted structures,SWISS-MODEL,8,38,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 8 - 38 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC4,Domains,Pfam domains,2,75,Type: Pfam domain Range: TYR2 - VAL75 Source: CoV_E (PF02723);
+P0DTC4,Secondary structure,Helix,10,19,Type: Helix Range: GLY10 - LEU19 Source PDB: 7k3g;
+P0DTC4,Secondary structure,Helix,21,37,Type: Helix Range: LEU21 - LEU37 Source PDB: 7k3g;

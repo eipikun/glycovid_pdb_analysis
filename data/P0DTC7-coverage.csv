@@ -1,0 +1,23 @@
+accession,type,label,start,end,notes
+P0DTC7,PDB Structures (2),6w37,16,81,Type: PDB mapped to UniProt Range: GLU16-SER81 PDB entry: 6w37 Best Chain A;
+P0DTC7,PDB Structures (2),6w37,82,82,Type: PDB mapped to UniProt Range: VAL82-VAL82 PDB entry: 6w37 Best Chain A;
+P0DTC7,PDB Structures (2),7ci3,14,82,Type: PDB mapped to UniProt Range: THR14-VAL82 PDB entry: 7ci3 Best Chain A;
+P0DTC7,PDB Structures (2),7ci3,83,96,Type: PDB mapped to UniProt Range: SER83-LEU96 PDB entry: 7ci3 Best Chain A;
+P0DTC7,Predicted structures,SWISS-MODEL,15,82,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 15 - 82 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC7,Predicted structures,SWISS-MODEL,16,81,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 16 - 81 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC7,Predicted structures,SWISS-MODEL,16,98,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 16 - 98 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC7,Domains,Pfam domains,16,121,Type: Pfam domain Range: GLU16 - GLU121 Source: bCoV_NS7A (PF08779);
+P0DTC7,Domains,CATH-B domains,16,81,Type: CATH-B domain Range: GLU16 - SER81 Source: SARS coronavirus X4 (6w37A00);
+P0DTC7,Secondary structure,Strand,21,24,Type: Strand Range: GLN21 - VAL24 Source PDB: 6w37;
+P0DTC7,Secondary structure,Strand,28,32,Type: Strand Range: THR28 - LYS32 Source PDB: 6w37;
+P0DTC7,Secondary structure,Strand,39,41,Type: Strand Range: THR39 - GLU41 Source PDB: 6w37;
+P0DTC7,Secondary structure,Strand,47,49,Type: Strand Range: HIS47 - LEU49 Source PDB: 6w37;
+P0DTC7,Secondary structure,Strand,53,57,Type: Strand Range: LYS53 - THR57 Source PDB: 6w37;
+P0DTC7,Secondary structure,Strand,61,66,Type: Strand Range: THR61 - ALA66 Source PDB: 6w37;
+P0DTC7,Secondary structure,Strand,72,80,Type: Strand Range: LYS72 - ARG80 Source PDB: 6w37;

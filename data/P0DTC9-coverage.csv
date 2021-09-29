@@ -1,0 +1,81 @@
+accession,type,label,start,end,notes
+P0DTC9,PDB Structures (33),7n0r,49,174,Type: PDB mapped to UniProt Range: THR49-GLU174 PDB entry: 7n0r Best Chain A;
+P0DTC9,PDB Structures (33),6wzo,247,253,Type: PDB mapped to UniProt Range: THR247-GLU253 PDB entry: 6wzo Best Chain B;
+P0DTC9,PDB Structures (33),6wzo,254,364,Type: PDB mapped to UniProt Range: ALA254-PRO364 PDB entry: 6wzo Best Chain B;
+P0DTC9,PDB Structures (33),6vyo,47,48,Type: PDB mapped to UniProt Range: ASN47-ASN48 PDB entry: 6vyo Best Chain B;
+P0DTC9,PDB Structures (33),6vyo,49,173,Type: PDB mapped to UniProt Range: THR49-ALA173 PDB entry: 6vyo Best Chain B;
+P0DTC9,PDB Structures (33),6yun,249,364,Type: PDB mapped to UniProt Range: LYS249-PRO364 PDB entry: 6yun Best Chain B;
+P0DTC9,PDB Structures (33),6zco,247,364,Type: PDB mapped to UniProt Range: THR247-PRO364 PDB entry: 6zco Best Chain A;
+P0DTC9,PDB Structures (33),6wzq,247,248,Type: PDB mapped to UniProt Range: THR247-LYS248 PDB entry: 6wzq Best Chain C;
+P0DTC9,PDB Structures (33),6wzq,249,364,Type: PDB mapped to UniProt Range: LYS249-PRO364 PDB entry: 6wzq Best Chain C;
+P0DTC9,PDB Structures (33),7n3c,47,173,Type: PDB mapped to UniProt Range: ASN47-ALA173 PDB entry: 7n3c Best Chain C;
+P0DTC9,PDB Structures (33),7ce0,255,364,Type: PDB mapped to UniProt Range: SER255-PRO364 PDB entry: 7ce0 Best Chain A;
+P0DTC9,PDB Structures (33),7f2b,257,362,Type: PDB mapped to UniProt Range: LYS257-THR362 PDB entry: 7f2b Best Chain A;
+P0DTC9,PDB Structures (33),7n3d,47,48,Type: PDB mapped to UniProt Range: ASN47-ASN48 PDB entry: 7n3d Best Chain C;
+P0DTC9,PDB Structures (33),7n3d,49,91,Type: PDB mapped to UniProt Range: THR49-THR91 PDB entry: 7n3d Best Chain C;
+P0DTC9,PDB Structures (33),7n3d,92,104,Type: PDB mapped to UniProt Range: ARG92-LEU104 PDB entry: 7n3d Best Chain C;
+P0DTC9,PDB Structures (33),7n3d,105,171,Type: PDB mapped to UniProt Range: SER105-PHE171 PDB entry: 7n3d Best Chain C;
+P0DTC9,PDB Structures (33),7n3d,172,173,Type: PDB mapped to UniProt Range: TYR172-ALA173 PDB entry: 7n3d Best Chain C;
+P0DTC9,PDB Structures (33),7cr5,41,47,Type: PDB mapped to UniProt Range: ARG41-ASN47 PDB entry: 7cr5 Best Chain A;
+P0DTC9,PDB Structures (33),7cr5,48,172,Type: PDB mapped to UniProt Range: ASN48-TYR172 PDB entry: 7cr5 Best Chain A;
+P0DTC9,PDB Structures (33),7cr5,173,174,Type: PDB mapped to UniProt Range: ALA173-GLU174 PDB entry: 7cr5 Best Chain A;
+P0DTC9,PDB Structures (33),6wji,257,364,Type: PDB mapped to UniProt Range: LYS257-PRO364 PDB entry: 6wji Best Chain A;
+P0DTC9,PDB Structures (33),7de1,250,364,Type: PDB mapped to UniProt Range: SER250-PRO364 PDB entry: 7de1 Best Chain B;
+P0DTC9,PDB Structures (33),7c22,248,251,Type: PDB mapped to UniProt Range: LYS248-ALA251 PDB entry: 7c22 Best Chain B;
+P0DTC9,PDB Structures (33),7c22,252,364,Type: PDB mapped to UniProt Range: ALA252-PRO364 PDB entry: 7c22 Best Chain B;
+P0DTC9,PDB Structures (33),7n0i,269,364,Type: PDB mapped to UniProt Range: ASN269-PRO364 PDB entry: 7n0i Best Chain A;
+P0DTC9,PDB Structures (33),7kgr,159,167,Type: PDB mapped to UniProt Range: LEU159-LEU167 PDB entry: 7kgr Best Chain C;
+P0DTC9,PDB Structures (33),7luz,243,248,Type: PDB mapped to UniProt Range: GLY243-LYS248 PDB entry: 7luz Best Chain A;
+P0DTC9,PDB Structures (33),7kgq,222,230,Type: PDB mapped to UniProt Range: LEU222-LEU230 PDB entry: 7kgq Best Chain C;
+P0DTC9,PDB Structures (33),7lux,217,222,Type: PDB mapped to UniProt Range: ALA217-LEU222 PDB entry: 7lux Best Chain A;
+P0DTC9,PDB Structures (33),7lv2,179,184,Type: PDB mapped to UniProt Range: GLY179-SER184 PDB entry: 7lv2 Best Chain A;
+P0DTC9,PDB Structures (33),7kgs,138,146,Type: PDB mapped to UniProt Range: ALA138-ILE146 PDB entry: 7kgs Best Chain C;
+P0DTC9,PDB Structures (33),7ltu,217,222,Type: PDB mapped to UniProt Range: ALA217-LEU222 PDB entry: 7ltu Best Chain A;
+P0DTC9,PDB Structures (33),7kgp,316,324,Type: PDB mapped to UniProt Range: GLY316-VAL324 PDB entry: 7kgp Best Chain C;
+P0DTC9,PDB Structures (33),7kgo,351,359,Type: PDB mapped to UniProt Range: ILE351-ALA359 PDB entry: 7kgo Best Chain C;
+P0DTC9,PDB Structures (33),7cdz,44,46,Type: PDB mapped to UniProt Range: GLY44-PRO46 PDB entry: 7cdz Best Chain A;
+P0DTC9,PDB Structures (33),7cdz,47,174,Type: PDB mapped to UniProt Range: ASN47-GLU174 PDB entry: 7cdz Best Chain A;
+P0DTC9,PDB Structures (33),7kgt,226,228,Type: PDB mapped to UniProt Range: ARG226-ASN228 PDB entry: 7kgt Best Chain C;
+P0DTC9,PDB Structures (33),7kgt,229,234,Type: PDB mapped to UniProt Range: GLN229-MET234 PDB entry: 7kgt Best Chain C;
+P0DTC9,PDB Structures (33),7lgd,105,113,Type: PDB mapped to UniProt Range: SER105-LEU113 PDB entry: 7lgd Best Chain E;
+P0DTC9,PDB Structures (33),6wkp,47,49,Type: PDB mapped to UniProt Range: ASN47-THR49 PDB entry: 6wkp Best Chain C;
+P0DTC9,PDB Structures (33),6wkp,50,97,Type: PDB mapped to UniProt Range: ALA50-GLY97 PDB entry: 6wkp Best Chain C;
+P0DTC9,PDB Structures (33),6wkp,98,101,Type: PDB mapped to UniProt Range: ASP98-MET101 PDB entry: 6wkp Best Chain C;
+P0DTC9,PDB Structures (33),6wkp,102,173,Type: PDB mapped to UniProt Range: LYS102-ALA173 PDB entry: 6wkp Best Chain C;
+P0DTC9,PDB Structures (33),7r98,49,93,Type: PDB mapped to UniProt Range: THR49-ARG93 PDB entry: 7r98 Best Chain A;
+P0DTC9,PDB Structures (33),7r98,94,100,Type: PDB mapped to UniProt Range: ILE94-LYS100 PDB entry: 7r98 Best Chain A;
+P0DTC9,PDB Structures (33),7r98,101,174,Type: PDB mapped to UniProt Range: MET101-GLU174 PDB entry: 7r98 Best Chain A;
+P0DTC9,PDB Structures (33),6m3m,41,46,Type: PDB mapped to UniProt Range: ARG41-PRO46 PDB entry: 6m3m Best Chain B;
+P0DTC9,PDB Structures (33),6m3m,47,96,Type: PDB mapped to UniProt Range: ASN47-GLY96 PDB entry: 6m3m Best Chain B;
+P0DTC9,PDB Structures (33),6m3m,97,97,Type: PDB mapped to UniProt Range: GLY97-GLY97 PDB entry: 6m3m Best Chain B;
+P0DTC9,PDB Structures (33),6m3m,98,173,Type: PDB mapped to UniProt Range: ASP98-ALA173 PDB entry: 6m3m Best Chain B;
+P0DTC9,PDB Structures (33),6m3m,174,174,Type: PDB mapped to UniProt Range: GLU174-GLU174 PDB entry: 6m3m Best Chain B;
+P0DTC9,PDB Structures (33),6yi3,44,180,Type: PDB mapped to UniProt Range: GLY44-SER180 PDB entry: 6yi3 Best Chain A;
+P0DTC9,PDB Structures (33),7act,44,180,Type: PDB mapped to UniProt Range: GLY44-SER180 PDB entry: 7act Best Chain A;
+P0DTC9,PDB Structures (33),7acs,44,180,Type: PDB mapped to UniProt Range: GLY44-SER180 PDB entry: 7acs Best Chain A;
+P0DTC9,Predicted structures,SWISS-MODEL,48,173,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 48 - 173 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC9,Predicted structures,SWISS-MODEL,40,174,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 40 - 174 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC9,Predicted structures,SWISS-MODEL,250,364,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 250 - 364 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC9,Domains,Pfam domains,22,391,Type: Pfam domain Range: ASP22 - THR391 Source: CoV_nucleocap (PF00937);
+P0DTC9,Secondary structure,Helix,258,262,Type: Helix Range: PRO258 - ARG262 Source PDB: 6wzo;
+P0DTC9,Secondary structure,Helix,269,275,Type: Helix Range: ASN269 - GLY275 Source PDB: 6wzo;
+P0DTC9,Secondary structure,Helix,288,295,Type: Helix Range: ASP288 - GLY295 Source PDB: 6wzo;
+P0DTC9,Secondary structure,Helix,296,298,Type: Helix Range: THR296 - TYR298 Source PDB: 6wzo;
+P0DTC9,Secondary structure,Helix,300,306,Type: Helix Range: HIS300 - GLN306 Source PDB: 6wzo;
+P0DTC9,Secondary structure,Helix,310,318,Type: Helix Range: SER310 - SER318 Source PDB: 6wzo;
+P0DTC9,Secondary structure,Helix,345,357,Type: Helix Range: ASN345 - ILE357 Source PDB: 6wzo;
+P0DTC9,Secondary structure,Helix,358,363,Type: Helix Range: ASP358 - PHE363 Source PDB: 6wzo;
+P0DTC9,Secondary structure,Strand,319,325,Type: Strand Range: ARG319 - THR325 Source PDB: 6wzo;
+P0DTC9,Secondary structure,Strand,328,338,Type: Strand Range: GLY328 - LYS338 Source PDB: 6wzo;
+P0DTC9,Flexibility predictions,MobiDB,49,51,Type: Consensus Disorder Prediction Range: THR49 - SER51 Source : MobiDB;
+P0DTC9,Flexibility predictions,MobiDB,63,83,Type: Consensus Disorder Prediction Range: ASP63 - GLN83 Source : MobiDB;
+P0DTC9,Flexibility predictions,MobiDB,168,174,Type: Consensus Disorder Prediction Range: PRO168 - GLU174 Source : MobiDB;
+P0DTC9,Flexibility predictions,MobiDB,179,184,Type: Consensus Disorder Prediction Range: GLY179 - SER184 Source : MobiDB;
+P0DTC9,Flexibility predictions,MobiDB,247,266,Type: Consensus Disorder Prediction Range: THR247 - LYS266 Source : MobiDB;
+P0DTC9,Flexibility predictions,MobiDB,361,364,Type: Consensus Disorder Prediction Range: LYS361 - PRO364 Source : MobiDB;

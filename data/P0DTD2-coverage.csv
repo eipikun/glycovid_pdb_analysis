@@ -1,0 +1,17 @@
+accession,type,label,start,end,notes
+P0DTD2,PDB Structures (3),7dhg,1,42,Type: PDB mapped to UniProt Range: MET1-TYR42 PDB entry: 7dhg Best Chain B;
+P0DTD2,PDB Structures (3),7dhg,43,78,Type: PDB mapped to UniProt Range: PRO43-MET78 PDB entry: 7dhg Best Chain B;
+P0DTD2,PDB Structures (3),7dhg,79,97,Type: PDB mapped to UniProt Range: THR79-LYS97 PDB entry: 7dhg Best Chain B;
+P0DTD2,PDB Structures (3),7kdt,1,38,Type: PDB mapped to UniProt Range: MET1-GLY38 PDB entry: 7kdt Best Chain B;
+P0DTD2,PDB Structures (3),7kdt,39,76,Type: PDB mapped to UniProt Range: PRO39-VAL76 PDB entry: 7kdt Best Chain B;
+P0DTD2,PDB Structures (3),7kdt,77,97,Type: PDB mapped to UniProt Range: GLN77-LYS97 PDB entry: 7kdt Best Chain B;
+P0DTD2,PDB Structures (3),6z4u,1,25,Type: PDB mapped to UniProt Range: MET1-ARG25 PDB entry: 6z4u Best Chain A;
+P0DTD2,PDB Structures (3),6z4u,26,38,Type: PDB mapped to UniProt Range: MET26-GLY38 PDB entry: 6z4u Best Chain A;
+P0DTD2,PDB Structures (3),6z4u,39,97,Type: PDB mapped to UniProt Range: PRO39-LYS97 PDB entry: 6z4u Best Chain A;
+P0DTD2,Predicted structures,SWISS-MODEL,1,97,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 1 - 97 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTD2,Predicted structures,SWISS-MODEL,10,97,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 10 - 97 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTD2,Domains,Pfam domains,1,97,Type: Pfam domain Range: MET1 - LYS97 Source: bCoV_lipid_BD (PF09399);

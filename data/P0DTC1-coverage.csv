@@ -1,0 +1,150 @@
+accession,type,label,start,end,notes
+P0DTC1,PDB Structures (11),7d6h,1563,1878,Type: PDB mapped to UniProt Range: ARG1563-LYS1878 PDB entry: 7d6h Best Chain A;
+P0DTC1,PDB Structures (11),7ofu,1564,1878,Type: PDB mapped to UniProt Range: GLU1564-LYS1878 PDB entry: 7ofu Best Chain A;
+P0DTC1,PDB Structures (11),7lbr,1564,1878,Type: PDB mapped to UniProt Range: GLU1564-LYS1878 PDB entry: 7lbr Best Chain A;
+P0DTC1,PDB Structures (11),7rzc,1564,1564,Type: PDB mapped to UniProt Range: GLU1564-GLU1564 PDB entry: 7rzc Best Chain A;
+P0DTC1,PDB Structures (11),7rzc,1565,1878,Type: PDB mapped to UniProt Range: VAL1565-LYS1878 PDB entry: 7rzc Best Chain A;
+P0DTC1,PDB Structures (11),7faz,3264,3568,Type: PDB mapped to UniProt Range: SER3264-PHE3568 PDB entry: 7faz Best Chain B;
+P0DTC1,PDB Structures (11),7faz,3569,3569,Type: PDB mapped to UniProt Range: GLN3569-GLN3569 PDB entry: 7faz Best Chain B;
+P0DTC1,PDB Structures (11),7nw2,3264,3564,Type: PDB mapped to UniProt Range: SER3264-SER3564 PDB entry: 7nw2 Best Chain A;
+P0DTC1,PDB Structures (11),7nw2,3565,3569,Type: PDB mapped to UniProt Range: GLY3565-GLN3569 PDB entry: 7nw2 Best Chain A;
+P0DTC1,PDB Structures (11),7fay,3264,3564,Type: PDB mapped to UniProt Range: SER3264-SER3564 PDB entry: 7fay Best Chain A;
+P0DTC1,PDB Structures (11),7fay,3565,3569,Type: PDB mapped to UniProt Range: GLY3565-GLN3569 PDB entry: 7fay Best Chain A;
+P0DTC1,PDB Structures (11),7llf,1564,1878,Type: PDB mapped to UniProt Range: GLU1564-LYS1878 PDB entry: 7llf Best Chain A;
+P0DTC1,PDB Structures (11),7ein,3264,3563,Type: PDB mapped to UniProt Range: SER3264-CYS3563 PDB entry: 7ein Best Chain A;
+P0DTC1,PDB Structures (11),7ein,3564,3569,Type: PDB mapped to UniProt Range: SER3564-GLN3569 PDB entry: 7ein Best Chain A;
+P0DTC1,PDB Structures (11),7lbs,1564,1878,Type: PDB mapped to UniProt Range: GLU1564-LYS1878 PDB entry: 7lbs Best Chain A;
+P0DTC1,PDB Structures (11),7eiz,3860,3860,Type: PDB mapped to UniProt Range: SER3860-SER3860 PDB entry: 7eiz Best Chain C;
+P0DTC1,PDB Structures (11),7eiz,3861,3932,Type: PDB mapped to UniProt Range: LYS3861-GLU3932 PDB entry: 7eiz Best Chain C;
+P0DTC1,PDB Structures (11),7eiz,3933,3942,Type: PDB mapped to UniProt Range: GLU3933-GLN3942 PDB entry: 7eiz Best Chain C;
+P0DTC1,Predicted structures,SWISS-MODEL,3264,3567,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3264 - 3567 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,3264,3567,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3264 - 3567 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,3264,3567,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3264 - 3567 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,3264,3569,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3264 - 3569 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,3264,3566,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3264 - 3566 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,184,818,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 184 - 818 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,3264,3569,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3264 - 3569 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,1025,1194,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 1025 - 1194 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,10,126,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 10 - 126 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,3860,3938,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3860 - 3938 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,4143,4253,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 4143 - 4253 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,4141,4253,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 4141 - 4253 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,1566,1878,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 1566 - 1878 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,3861,3930,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3861 - 3930 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,1564,1877,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 1564 - 1877 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,1564,1878,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 1564 - 1878 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,4261,4382,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 4261 - 4382 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,1562,1879,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 1562 - 1879 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,1231,1494,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 1231 - 1494 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,4271,4386,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 4271 - 4386 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,1369,1493,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 1369 - 1493 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,3860,3933,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3860 - 3933 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,4019,4135,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 4019 - 4135 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,4141,4253,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 4141 - 4253 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,3944,4134,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3944 - 4134 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,4019,4133,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 4019 - 4133 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,3174,3262,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3174 - 3262 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,819,925,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 819 - 925 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,1496,1550,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 1496 - 1550 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,13,127,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 13 - 127 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,1907,2021,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 1907 - 2021 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,3980,4134,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 3980 - 4134 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,4020,4133,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 4020 - 4133 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Predicted structures,SWISS-MODEL,148,180,Type: SWISS-MODEL Model category: TEMPLATE-BASED 
+                  Range: 148 - 180 Model URL: SWISS-MODEL <i class="icon icon-generic" style="font-size:75%" data-icon="x"></i>; 
+                  Model format: PDB
+P0DTC1,Processed proteins,Host translation inhibitor nsp1,1,180,Type: Processed protein Name: Host translation inhibitor nsp1 Range: MET1 - GLY180 View protein page: PRO_0000449635;
+P0DTC1,Processed proteins,Non-structural protein 2,181,818,Type: Processed protein Name: Non-structural protein 2 Range: ALA181 - GLY818 View protein page: PRO_0000449636;
+P0DTC1,Processed proteins,Papain-like protease nsp3,819,2763,Type: Processed protein Name: Papain-like protease nsp3 Range: ALA819 - GLY2763 View protein page: PRO_0000449637;
+P0DTC1,Processed proteins,Non-structural protein 4,2764,3263,Type: Processed protein Name: Non-structural protein 4 Range: LYS2764 - GLN3263 View protein page: PRO_0000449638;
+P0DTC1,Processed proteins,3C-like proteinase nsp5,3264,3569,Type: Processed protein Name: 3C-like proteinase nsp5 Range: SER3264 - GLN3569 View protein page: PRO_0000449639;
+P0DTC1,Processed proteins,Non-structural protein 6,3570,3859,Type: Processed protein Name: Non-structural protein 6 Range: SER3570 - GLN3859 View protein page: PRO_0000449640;
+P0DTC1,Processed proteins,Non-structural protein 7,3860,3942,Type: Processed protein Name: Non-structural protein 7 Range: SER3860 - GLN3942 View protein page: PRO_0000449641;
+P0DTC1,Processed proteins,Non-structural protein 8,3943,4140,Type: Processed protein Name: Non-structural protein 8 Range: ALA3943 - GLN4140 View protein page: PRO_0000449642;
+P0DTC1,Processed proteins,Non-structural protein 9,4141,4253,Type: Processed protein Name: Non-structural protein 9 Range: ASN4141 - GLN4253 View protein page: PRO_0000449643;
+P0DTC1,Processed proteins,Non-structural protein 10,4254,4392,Type: Processed protein Name: Non-structural protein 10 Range: ALA4254 - GLN4392 View protein page: PRO_0000449644;
+P0DTC1,Processed proteins,Non-structural protein 11,4393,4405,Type: Processed protein Name: Non-structural protein 11 Range: SER4393 - VAL4405 View protein page: PRO_0000449645;
+P0DTC1,Domains,Pfam domains,7,144,Type: Pfam domain Range: GLY7 - ASP144 Source: bCoV_NSP1 (PF11501);
+P0DTC1,Domains,Pfam domains,182,423,Type: Pfam domain Range: TYR182 - TRP423 Source: CoV_NSP2_N (PF19211);
+P0DTC1,Domains,Pfam domains,652,818,Type: Pfam domain Range: ILE652 - GLY818 Source: CoV_NSP2_C (PF19212);
+P0DTC1,Domains,Pfam domains,880,1051,Type: Pfam domain Range: ILE880 - LYS1051 Source: bCoV_NSP3_N (PF12379);
+P0DTC1,Domains,Pfam domains,1058,1165,Type: Pfam domain Range: VAL1058 - CYS1165 Source: Macro (PF01661);
+P0DTC1,Domains,Pfam domains,1351,1493,Type: Pfam domain Range: SER1351 - SER1493 Source: bCoV_SUD_M (PF11633);
+P0DTC1,Domains,Pfam domains,1497,1561,Type: Pfam domain Range: PRO1497 - SER1561 Source: bCoV_SUD_C (PF12124);
+P0DTC1,Domains,Pfam domains,1564,1882,Type: Pfam domain Range: GLU1564 - TYR1882 Source: CoV_peptidase (PF08715);
+P0DTC1,Domains,Pfam domains,1909,2019,Type: Pfam domain Range: GLU1909 - VAL2019 Source: bCoV_NAR (PF16251);
+P0DTC1,Domains,Pfam domains,2260,2749,Type: Pfam domain Range: PRO2260 - GLN2749 Source: CoV_NSP3_C (PF19218);
+P0DTC1,Domains,Pfam domains,2788,3142,Type: Pfam domain Range: TYR2788 - ILE3142 Source: CoV_NSP4_N (PF19217);
+P0DTC1,Domains,Pfam domains,3166,3262,Type: Pfam domain Range: VAL3166 - LEU3262 Source: CoV_NSP4_C (PF16348);
+P0DTC1,Domains,Pfam domains,3292,3582,Type: Pfam domain Range: GLY3292 - TRP3582 Source: Peptidase_C30 (PF05409);
+P0DTC1,Domains,Pfam domains,3597,3859,Type: Pfam domain Range: SER3597 - GLN3859 Source: CoV_NSP6 (PF19213);
+P0DTC1,Domains,Pfam domains,3860,3942,Type: Pfam domain Range: SER3860 - GLN3942 Source: CoV_NSP7 (PF08716);
+P0DTC1,Domains,Pfam domains,3943,4139,Type: Pfam domain Range: ALA3943 - LEU4139 Source: CoV_NSP8 (PF08717);
+P0DTC1,Domains,Pfam domains,4141,4253,Type: Pfam domain Range: ASN4141 - GLN4253 Source: CoV_NSP9 (PF08710);
+P0DTC1,Domains,Pfam domains,4262,4384,Type: Pfam domain Range: ALA4262 - ASP4384 Source: CoV_NSP10 (PF09401);
