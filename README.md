@@ -1,4 +1,4 @@
-# Program of analyzing difference between PDBe and PDBj
+# Program of analyzing difference between PDBe and PDBj focusing on COVID19 related structures
 ## Analysis Steps
 ### Step 0(optional)
 You are required to install those module to execute analysis.py in advance.
@@ -33,6 +33,7 @@ pip3 install -r requirements.txt
 - Select 'CSV' format to download data
 
 ※csv files are originally stored which are got at the same date of the commit
+
 ※Collections of csv file should be stored in 'data' folder without changing its name
 ### Step 2
 - To scarape PDBj registered structures, uncomment line 124 of analysis.py
